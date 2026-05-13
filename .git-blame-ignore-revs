@@ -1,0 +1,5 @@
+# Révisions ignorées par `git blame`
+# Activer en local : git config blame.ignoreRevsFile .git-blame-ignore-revs
+
+# style: applique prettier sur tout le code
+8de44d89eba294fb8dd700175900cb5006ca9a4c
