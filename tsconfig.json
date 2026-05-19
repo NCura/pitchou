@@ -4,7 +4,8 @@
     "scripts/**/*.ts",
     "scripts/**/*.d.ts",
     "outils/**/*.js",
-    "tests/**/*.js"
+    "tests/**/*.js",
+    "seeds/**/*.js"
   ],
   "exclude": ["node_modules"],
   "compilerOptions": {
